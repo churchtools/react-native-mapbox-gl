@@ -41,7 +41,8 @@
   },
   "dependencies": {
     "@turf/helpers": "4.6.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "deprecated-react-native-prop-types": "^2.3.0"
   },
   "devDependencies": {
     "eslint-config-airbnb-base": "^13.1.0",
